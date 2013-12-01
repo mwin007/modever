@@ -1,0 +1,140 @@
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 59
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 59 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 59
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 59 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-02T11:18:56+00:00 ERR (3): Notice: Undefined variable: product  in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60
+2013-12-02T11:18:56+00:00 ERR (3): Recoverable Error: Argument 1 passed to Mage_Catalog_Helper_Image::init() must be an instance of Mage_Catalog_Model_Product, null given, called in /Users/martinnguyen/Localhost/modever/app/design/frontend/shopper/default/template/ajax/catalog/product/quick_view.phtml on line 60 and defined  in /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Catalog/Helper/Image.php on line 139
+2013-12-04T17:48:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:48:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:48:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:48:34+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:15+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:16+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:38+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:38+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T17:57:39+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T18:06:37+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T18:06:37+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T18:06:37+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
+2013-12-04T18:06:38+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /Users/martinnguyen/Localhost/modever/lib/Zend/Controller/Response/Abstract.php:766
+[2] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Response/Http.php:83
+[3] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Controller/Varien/Front.php:188
+[4] /Users/martinnguyen/Localhost/modever/app/code/core/Mage/Core/Model/App.php:354
+[5] /Users/martinnguyen/Localhost/modever/app/Mage.php:683
+[6] /Users/martinnguyen/Localhost/modever/index.php:87
+</pre>
